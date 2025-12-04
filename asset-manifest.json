@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greda-12-app/static/css/main.b301071e.css",
+    "main.js": "/greda-12-app/static/js/main.003e2b06.js",
+    "static/js/453.9351d806.chunk.js": "/greda-12-app/static/js/453.9351d806.chunk.js",
+    "static/media/logo.svg": "/greda-12-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/greda-12-app/index.html",
+    "main.b301071e.css.map": "/greda-12-app/static/css/main.b301071e.css.map",
+    "main.003e2b06.js.map": "/greda-12-app/static/js/main.003e2b06.js.map",
+    "453.9351d806.chunk.js.map": "/greda-12-app/static/js/453.9351d806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b301071e.css",
+    "static/js/main.003e2b06.js"
+  ]
+}
